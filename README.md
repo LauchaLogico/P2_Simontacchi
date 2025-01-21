@@ -25,5 +25,5 @@ La tabla de telefonía fija solo se utilizará la hoja de accesos totales, discr
 - `Dataset/`: Carpeta que ontiene las planillas excell con los datos utilizados para realizar el análisis.
 - `notebooks/`: Jupyter notebooks. Dentro de esta carpeta encontraran dos archivos jupyter notebook </br >
               EDA.ipynb: Aquí se realiza el proceso de extracción, transformación de los datos. Se identificaron y eliminaron datos redundantes, atípicos y nulos, preparando la información para un análisis más limpio y efectivo para el análisis exploratorio de datos con el objetivo de identificar tendencias, distribuciones y valores críticos. Las conclusiones de este análisis se utilizaron para diseñar el dashboard y se presentan en el archivo "Informe_EDA_Telecomunicaciones.pdf".
-- `Informe_EDA_Telecomunicaciones.pdf/`: Informe detallado del análisis de los datos con conclusiones.
+- `Informe_EDA_Telecomunicaciones.pdf`: Informe detallado del análisis de los datos con conclusiones.
 - `README.md`: El archivo que estás leyendo.
