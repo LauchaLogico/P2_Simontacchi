@@ -17,7 +17,16 @@ Para el presente trabajo se tiene el siguiente dataset obtenido de la página de
 
 **_Mapa Conectividad_**: Esta tabla contiene la disponibilidad de tecnología (ADSL, Cablemódem, Dial Up, Fibra óptica, Satelital, Wireless, Telefonía Fija, 3G, 4G) por Localidad. Para tener en cuenta la división política de Argentina es Provincias → Partidos → Localidades, por lo que la información que se brinda es el nombre de la Localidad, a que Partido pertenece y en que Provincia se encuentra. También se da información de la población.  </br >
 
-
 La principal fuente del presente análisis proviene de la tabla “Internet” debido a que es la principal actividad de la empresa. De esta se eligió las hojas donde se detallan los datos a nivel provincial y totales. De esta manera se deja de lado el desglose por partidos y localidades dejando la posibilidad de hacer un análisis con mayor detalle si el cliente así lo requiere. Este criterio se tendrá en cuenta para todas las tablas, salvo para “Mapa Conectividad” donde se tomará el dato de la población para determinar los potenciales clientes, sin embargo, se hará una transformación de los datos de manera tal que me de los datos por provincia y no por localidad. La tabla “portabilidad” se utilizará completa, ya que cuenta con solo una hoja donde se muestra la portabilidad total por trimestre. 
 De la tabla Televisión, se utilizará los datos de acceso totales por año, trimestre y tipo de televisión (satelital y por suscripción) 
 La tabla de telefonía fija solo se utilizará la hoja de accesos totales, discriminada por Total, Hogares, Comercio, Gobierno y otros.
+
+### Estructura
+- `Dataset/`: Carpeta que ontiene las planillas excell con los datos utilizados para realizar el análisis.
+- `notebooks/`: Jupyter notebooks. Dentro de esta carpeta encontraran dos archivos jupyter notebook
+              EDA.ipynb
+- `Informe/`: Informe detallado de los datos y elproyecto.
+- `main.py`: Código fuente.
+- `reports/`: Informes y visualizaciones.
+- `README.md`: El archivo que estás leyendo.
+- `requerimens.txt`: archivo que contiene las librerias utilizadas en el código fuente.
