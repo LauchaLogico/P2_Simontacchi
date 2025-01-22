@@ -1,5 +1,5 @@
 # P2_Simontacchi
-Segundo proyecto individual, análisis de las Telecomunicaciones.
+Análisis de las Telecomunicaciones. Este es el segundo proyecto individual de la carrera de Ciencia de Datos de Henry. En el simulo ser contratado por una empresa de telecomunicaciones que quiere emmpezar a invertir en Argentina. 
 
 ## Elección de los datos: 
 Para el presente trabajo se tiene el siguiente dataset obtenido de la página del ENACOM (https://indicadores.enacom.gob.ar/datos-abiertos-servicios )  
@@ -27,3 +27,6 @@ La tabla de telefonía fija solo se utilizará la hoja de accesos totales, discr
               EDA.ipynb: Aquí se realiza el proceso de extracción, transformación de los datos. Se identificaron y eliminaron datos redundantes, atípicos y nulos, preparando la información para un análisis más limpio y efectivo para el análisis exploratorio de datos con el objetivo de identificar tendencias, distribuciones y valores críticos. Las conclusiones de este análisis se utilizaron para diseñar el dashboard y se presentan en el archivo "Informe_EDA_Telecomunicaciones.pdf".
 - `Informe_EDA_Telecomunicaciones.pdf`: Informe detallado del análisis de los datos con conclusiones.
 - `README.md`: El archivo que estás leyendo.
+
+### Autor:
+Laucha Logico - Contacto: [LinkedIn](www.linkedin.com/in/lautaro-simontacchi-75b77580). [Instagram](https://www.instagram.com/laucha_logico/)
