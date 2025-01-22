@@ -1,5 +1,12 @@
 # P2_Simontacchi
-Análisis de las Telecomunicaciones. Este es el segundo proyecto individual de la carrera de Ciencia de Datos de Henry. En el simulo ser contratado por una empresa de telecomunicaciones que quiere emmpezar a invertir en Argentina. 
+<h1 align='center'>
+<b>Informe Telecomunicaciones</b>
+</h1>
+
+![Portada](https://bit.coit.es/wp-content/uploads/2020/07/formando-ingenieros-de-telecomunicacion-imagen.png)
+
+### Contexto:
+Este es el segundo proyecto individual de la carrera de Ciencia de Datos de Henry. En el simulo ser contratado como analista de datos por una empresa de telecomunicaciones que quiere emmpezar a invertir en Argentina. 
 
 ## Elección de los datos: 
 Para el presente trabajo se tiene el siguiente dataset obtenido de la página del ENACOM (https://indicadores.enacom.gob.ar/datos-abiertos-servicios )  
