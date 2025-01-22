@@ -4,6 +4,9 @@
 </h1>
 
 ![Portada](https://bit.coit.es/wp-content/uploads/2020/07/formando-ingenieros-de-telecomunicacion-imagen.png)
+<h3 align='right'>
+<b>fuente: https://bit.coit.es/ </b>
+</h3>
 
 ### Contexto:
 Este es el segundo proyecto individual de la carrera de Ciencia de Datos de Henry. En el simulo ser contratado como analista de datos por una empresa de telecomunicaciones que quiere emmpezar a invertir en Argentina. 
