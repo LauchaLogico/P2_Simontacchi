@@ -38,7 +38,7 @@ La tabla de telefonía fija solo se utilizará la hoja de accesos totales, discr
 - `Informe_EDA_Telecomunicaciones.pdf`: Informe detallado del análisis de los datos con conclusiones.
 - `README.md`: El archivo que estás leyendo.
 ### Herramientas utilizadas:
-_ Python: Librerias Pandas, Numpy, matplotlib, seaborn, statsmodels
+_ Python: Librerias Pandas, Numpy, matplotlib, seaborn, statsmodels </br >
 _ Power By
 _ 
 ### Autor:
