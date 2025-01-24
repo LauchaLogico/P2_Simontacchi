@@ -37,6 +37,9 @@ La tabla de telefonía fija solo se utilizará la hoja de accesos totales, discr
               EDA.ipynb: Aquí se realiza el proceso de extracción, transformación de los datos. Se identificaron y eliminaron datos redundantes, atípicos y nulos, preparando la información para un análisis más limpio y efectivo para el análisis exploratorio de datos con el objetivo de identificar tendencias, distribuciones y valores críticos. Las conclusiones de este análisis se utilizaron para diseñar el dashboard y se presentan en el archivo "Informe_EDA_Telecomunicaciones.pdf".
 - `Informe_EDA_Telecomunicaciones.pdf`: Informe detallado del análisis de los datos con conclusiones.
 - `README.md`: El archivo que estás leyendo.
-
+### Herramientas utilizadas:
+_ Python: Librerias Pandas, Numpy, matplotlib, seaborn, statsmodels
+_ Power By
+_ 
 ### Autor:
 Laucha Logico - Contacto: [LinkedIn](www.linkedin.com/in/lautaro-simontacchi-75b77580). [Instagram](https://www.instagram.com/laucha_logico/)
